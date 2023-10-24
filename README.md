@@ -18,6 +18,7 @@ JAVA, JAVA SWING
    해당 프로세스가 Arrival Time부터 BurstTime 동안 차지하는 코어가 화면에 나타나집니다.<br>
    이 때, 설정한 Excute Time마다 좌측에서 우측으로 그래프가 한칸씩 생성됩니다.<br>
 - SPN과 SRTN 스케줄링 기법에 한하여 선점과 비선점 방식을 채택하여 작동할 수 있도록 했습니다. <br>
+- Ready Queue, Gant Chart, Result table 구현
 <br>
 
 <h2>작동 예시</h2>
