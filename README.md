@@ -8,6 +8,7 @@ CPU 스케줄링 알고리즘을 Java Swing을 사용하여 시각화한 프로�
 JAVA, JAVA SWING
 
 <h2>작동 예시</h2>
+
 ![image](https://github.com/Chaeros/CPU_scheduling_project/assets/91451735/de244c44-c2ae-404e-a62d-ab266a59cdde)
 ![image](https://github.com/Chaeros/CPU_scheduling_project/assets/91451735/6f3c67a8-e443-4214-9993-543e150780f2)
 ![image](https://github.com/Chaeros/CPU_scheduling_project/assets/91451735/22a659a1-984c-4394-befd-6fdcd1ef9675)
