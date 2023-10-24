@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="MyFrame.SPN2Thread" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/MyFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="646" y="601"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="MyFrame.ColorTable" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/MyFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="102" width="268" x="207" y="823"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="MyFrame.MyComboBoxActionListener" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/MyFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="934" y="740"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="MyFrame.WorkObject" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/MyFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="170" y="736"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="MyFrame.FCFS2Thread" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/MyFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="199" y="604"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="MyFrame.RRThread" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/MyFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="337" y="604"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="MyFrame" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/MyFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="249" width="273" x="523" y="679"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="MyFrame.MyPanel" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/MyFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="80" width="168" x="295" y="728"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="MyFrame.HRRNThread" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/MyFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="808" y="598"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="MyFrame.MyButtonActionListener" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/MyFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="936" y="870"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="MyFrame.SRTN2Thread" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/MyFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="485" y="601"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="MyFrame.TEAMThread" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/MyFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="977" y="597"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="HRRN" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/HRRN.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="144" width="144" x="735" y="375"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="RR" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/RR.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="156" width="114" x="282" y="373"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="SPN2" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/SPN2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="158" width="136" x="577" y="371"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="SRTN2" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/SRTN2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="156" width="161" x="401" y="372"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="TEAM" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/TEAM.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="150" width="146" x="903" y="375"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="FCFS2" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/FCFS2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="161" width="156" x="121" y="371"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="RealTimeValue" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/RealTimeValue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="199" y="279"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="ReadyProcess" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/ReadyProcess.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="151" width="213" x="833" y="194"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="Process" project="TeamProject_ProcessScheduling" 
+    file="/TeamProject_ProcessScheduling/src/Process.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="148" width="214" x="471" y="201"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="22">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <association id="23">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="24" name="timeTable"/>      
+      <multiplicity id="25" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="26">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <association id="27">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="28" name="srtn"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="31" name="realTimeValue"/>      
+      <multiplicity id="32" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="34" name="readyProcess"/>      
+      <multiplicity id="35" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="37" name="readyProcess"/>      
+      <multiplicity id="38" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="40" name="process"/>      
+      <multiplicity id="41" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="42">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <association id="43">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="44" name="process"/>      
+      <multiplicity id="45" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="47" name="resultTable"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="50" name="processQueue"/>      
+      <multiplicity id="51" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="53" name="readyProcess"/>      
+      <multiplicity id="54" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="56" name="process"/>      
+      <multiplicity id="57" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="59" name="wordObject"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="62" name="tempQueue"/>      
+      <multiplicity id="63" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="64">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="65" name="processQueue"/>      
+      <multiplicity id="66" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="68" name="processQueue"/>      
+      <multiplicity id="69" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="70">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="71" name="tempQueue"/>      
+      <multiplicity id="72" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="73">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <nesting id="74">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <association id="75">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="76" name="fcfs"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="79" name="process"/>      
+      <multiplicity id="80" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="81">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <nesting id="82">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <nesting id="83">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <nesting id="84">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <association id="85">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="86" name="tempQueue"/>      
+      <multiplicity id="87" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="88">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="89" name="tempQueue"/>      
+      <multiplicity id="90" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="92" name="process"/>      
+      <multiplicity id="93" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="94">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="95" name="wordObject"/>      
+      <multiplicity id="96" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="98" name="realTimeValue"/>      
+      <multiplicity id="99" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="100">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="101" name="readyProcess"/>      
+      <multiplicity id="102" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="104" name="team"/>      
+      <multiplicity id="105" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="106">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="107" name="processQueue"/>      
+      <multiplicity id="108" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="109">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="110" name="wordObject"/>      
+      <multiplicity id="111" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="112">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="113" name="process"/>      
+      <multiplicity id="114" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="115">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="116" name="wordObject"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="118">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="119" name="readyProcess"/>      
+      <multiplicity id="120" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="121">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="122" name="tempQueue"/>      
+      <multiplicity id="123" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="124">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="125" name="tempQueue"/>      
+      <multiplicity id="126" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="127">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <association id="128">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="129" name="wordObject"/>      
+      <multiplicity id="130" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="131">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="132" name="readyProcess"/>      
+      <multiplicity id="133" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="134">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="135" name="rr"/>      
+      <multiplicity id="136" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="137">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="138" name="hrrn"/>      
+      <multiplicity id="139" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="140">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="141" name="realTimeValue"/>      
+      <multiplicity id="142" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="143">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="144" name="wordObject"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="146">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="147" name="processQueue"/>      
+      <multiplicity id="148" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="149">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="150" name="processQueue"/>      
+      <multiplicity id="151" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="152">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="153" name="realTimeValue"/>      
+      <multiplicity id="154" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="155">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="156" name="realTimeValue"/>      
+      <multiplicity id="157" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="158">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <association id="159">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="160" name="spn2"/>      
+      <multiplicity id="161" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="162">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="163" name="realTimeValue"/>      
+      <multiplicity id="164" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
