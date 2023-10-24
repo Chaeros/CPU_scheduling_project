@@ -1,4 +1,4 @@
-# CPU_scheduling_project
+# Process_scheduling_project
 CPU 스케줄링 알고리즘을 Java Swing을 사용하여 시각화한 프로젝트입니다.
 <br>
 
